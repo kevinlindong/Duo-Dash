@@ -8,4 +8,4 @@ Controls:
 Arrow keys to move the character.  "z" and "x" to navigate the menu.
 
 Notes:
-The lua file only contains the code for the game, and not assets including sprites, tilemap, sfx, and music. Those can be found in zip files.
+The lua file only contains the code for the game, and not assets including sprites, tilemap, sfx, and music. Those can be found in p8 or zip files.
