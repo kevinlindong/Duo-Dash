@@ -8,4 +8,4 @@ Control two parallel characters in a fun arcade style puzzle game. Dash from wal
 Arrow keys to move the character.  "z" and "x" to navigate the menu.
 
 ### Notes:
-The lua file contains only the code for the game, and not assets including sprites, tilemap, sfx, and music. Those can be found in p8 or zip files.
+The Lua file contains only the code for the game from PICO-8, and not assets including sprites, tilemap, sfx, and music. Those can be found in p8 or zip files.
