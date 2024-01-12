@@ -669,6 +669,7 @@ function collide_map2(obj, aim, flag)
  return false
 end
 
+
 --player two logic
 
 function player2_update()
