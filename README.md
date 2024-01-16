@@ -1,4 +1,4 @@
-# duo_dash
+# duo dash
 Fun and challenging arcade style puzzle game.
 
 ### Description:
